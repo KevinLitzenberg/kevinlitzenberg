@@ -844,8 +844,9 @@ a {
              <div id="home">
                  <h1>Kevin Litzenberg</h1>
                  <hr style="height:0.5px; width:90%; color:orange;"></hr>
-                 <p>Professional Experiance: <a href="http://www.linkedin.com/pub/kevin-litzenberg/1/563/169" target="blank">LinkedIn Profile</a>
+                 <p>Professional Experience: <a href="http://www.linkedin.com/pub/kevin-litzenberg/1/563/169" target="blank">LinkedIn Profile</a>
                  <p>Personal Photo Blog: <a href="http://www.facingsf.com" target="blank">www.facingsf.com</a>
+                 <p>Github: <a href="https://github.com/KevinLitzenberg" target="blank">Github Profile</a>
                  <p>Contact: <a href="mailto:kevin.litzenberg@gmail.com" target="blank">kevin.litzenberg@gmail.com</a>
                  
              </div><!--Statement-->
