@@ -832,7 +832,7 @@ a {
 	        <img id="image2_container" src="SlideLuck_Info800x532_600dpi.jpg" alt=""/>
 
              <div id="statement_container">
-                 <h1>A Collabrative Effort by Ellie and Kevin Litzeberg</h1>
+                 <h1>A Collaborative Effort by Ellie and Kevin Litzenberg</h1>
                  <hr style="height:0.5px; width:90%; color:orange;"></hr>
                  <p>Kevin and Ellie Litzenberg are San Francisco based multi-media artists with a passion for hunting down and collecting discarded memorabilia. 
                  <br><br><br>
